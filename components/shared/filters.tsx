@@ -59,6 +59,26 @@ export const Filters: React.FC<Props> = ({ className }) => {
                         text: 'Бекон',
                         value: '7',
                     },
+                    {
+                        text: 'Кетчуп',
+                        value: '3',
+                    },
+                    {
+                        text: 'Горчица',
+                        value: '4',
+                    },
+                    {
+                        text: 'Сыр',
+                        value: '5',
+                    },
+                    {
+                        text: 'Колбаса',
+                        value: '6',
+                    },
+                    {
+                        text: 'Бекон',
+                        value: '7',
+                    },
                 ]}
                 className='mt-5'
                 limit={6}
@@ -70,6 +90,26 @@ export const Filters: React.FC<Props> = ({ className }) => {
                     {
                         text: 'Чеснок',
                         value: '2',
+                    },
+                    {
+                        text: 'Кетчуп',
+                        value: '3',
+                    },
+                    {
+                        text: 'Горчица',
+                        value: '4',
+                    },
+                    {
+                        text: 'Сыр',
+                        value: '5',
+                    },
+                    {
+                        text: 'Колбаса',
+                        value: '6',
+                    },
+                    {
+                        text: 'Бекон',
+                        value: '7',
                     },
                     {
                         text: 'Кетчуп',
